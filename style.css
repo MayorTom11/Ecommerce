@@ -94,7 +94,7 @@
 
 /* Inicio Main */
 #main{
-    background-image: url("/img/mainbg_2.jpg");
+    background-image: url("img/mainbg_2.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
